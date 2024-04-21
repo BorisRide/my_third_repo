@@ -8,4 +8,4 @@ add text locally
 
 add text in new branch
 
-add conflict on web
+add local conflict
